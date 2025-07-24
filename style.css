@@ -1,0 +1,25 @@
+.cp1 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.cp2 {
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.btn{
+    background-color: #E95A08;
+    color: #FFFFFF;
+    text-align: center;
+    width: 270px;
+    height: 50px;
+}
+.cont{
+    font-size: 15px;
+    font-weight: 500px;
+    color:#625c5c;} 
