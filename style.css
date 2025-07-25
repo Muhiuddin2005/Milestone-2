@@ -22,4 +22,9 @@
 .cont{
     font-size: 15px;
     font-weight: 500px;
-    color:#625c5c;} 
+    color:#625c5c;}
+    
+    html, body {
+  overflow-x: hidden;
+}
+
